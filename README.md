@@ -1,5 +1,5 @@
 - 👋  Hi, I'm @NogueiraJr
-- 👀  I'm interested in systems development in general, music and languages.
+- 👀  I'm interested in systems development in general, music and languages. [https://www.linkedin.com/in/nogueirajr]
 - 🌱  I am currently learning Dart, Flutter, Postgres, Cloud and Docker.
 - 💞️  I'm looking to collaborate on Dart Flutter.
 - 📫  How to reach me: anogueirajr@gmail.com
